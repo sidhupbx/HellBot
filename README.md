@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>𝐒ɪᴅʜᴜ 𝐒ᴘᴀᴍ 𝐁ᴏᴛ🇨🇦 </b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ sɪᴅʜᴜʙᴏᴛ ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -79,7 +79,7 @@
 `For all config variables and their detailed explanation go to` [docs.hellbot.tech](https://docs.hellbot.tech/hellbot-userbot/config-variables)
 
 ------
-## HellBot Session
+## SidhuBot Session
 
 ### Repl
 - Open Repl Link.
@@ -91,7 +91,7 @@
         - Fill API ID, API HASH, Phone number (with country code).
         - Paste the OTP received on Telegram.
         - If You have Enabled 2-Step Verification then fill your password.
-        - Your HellBot Session Will be saved in your Telegram Saved Message.
+        - Your SidhuBot Session Will be saved in your Telegram Saved Message.
     - Telethon
         - Fill API ID, API HASH, Phone number (with country code).
         - Paste the OTP received on Telegram.
@@ -118,7 +118,7 @@
 `pkg install python wget -y && pip install telethon && pip install pyrogram && pip install instagrapi && wget https://raw.githubusercontent.com/The-HellBot/HellBot/master/hell_string.py && python3 hell_string.py`
 
 - Select the type of session.
-    - HellBot Session
+    - SidhuBot Session
         - Fill API ID, API HASH, Phone number (with country code).
         - Paste the OTP received on Telegram.
         - If You have Enabled 2-Step Verification then fill your password.
@@ -162,7 +162,7 @@
     Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [SidhuBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -177,6 +177,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [Team SidhuBot](https://t.me/PUNJABI_CHATTING_GRPUP)
 
 ------
